@@ -11,3 +11,5 @@ Se muestran las 20 palabras más frecuentes considerando todos los libros.
 - urllib
 - collections.Counter
 - re
+  ## Requirement
+  -No se uso porque la implementación del ejercicio puede resolverse completamente con módulos estándar de Python.
